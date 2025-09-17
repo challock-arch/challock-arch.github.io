@@ -1,0 +1,5 @@
+main:
+  - title: "Resume & Contact"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
