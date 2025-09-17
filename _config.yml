@@ -23,7 +23,7 @@ email: hallockdesigns.21@gmail.com
 # url: "challock-arch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
@@ -81,15 +81,15 @@ footer:
 #   - vendor/ruby/
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
+#       related: true
